@@ -1,0 +1,1 @@
+jalankan npm install lalu npm start untuk menjalankan program

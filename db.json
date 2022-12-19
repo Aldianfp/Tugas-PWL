@@ -1,0 +1,71 @@
+{
+  "product": [
+    {
+      "id":1,
+      "nama_kategori":"Cat Tembok",
+      "list_product":[
+        { 
+          "id": 1, 
+          "nama_barang": "Cat Warna Hitam Avitex 1kg ", 
+          "harga": 21900
+        },
+        { 
+          "id": 2, 
+          "nama_barang": "Cat Warna Merah Nippon Paint Vinilex 5kg", 
+          "harga": 115000
+        },
+        { 
+          "id": 3, 
+          "nama_barang": "Cat Warna Golden Honey Nippon Paint Matex 1kg", 
+          "harga": 34500
+        }
+      ]
+    },
+    {
+      "id":2,
+      "nama_kategori":"Perkakas",
+      "list_product":[
+        {
+          "id": 7,
+          "nama_barang":"STHIL Ms 250 Mesin Potong Kayu Chainsaw 20 Inch ",
+          "harga":5675000
+        },
+        {
+          "id": 8,
+          "nama_barang":"MODERN Mesin Bor Listrik M 2100 B 10Mm",
+          "harga": 450000
+        },
+        {
+          "id": 9,
+          "nama_barang":"Bosch Gsb10 Mesin Bor Tembok 10Mm Gsb 10 Impact Drill",
+          "harga": 739000
+        }
+      ]
+    },
+    {
+      "id":3,
+      "nama_kategori":"Pipa PVC",
+      "list_product":[
+        {
+          "id": 12,
+          "nama_barang":"Pipa PVC Merk Wavin Tipe AW 2 Inch",
+          "harga":55000
+        },
+        {
+          "id": 13,
+          "nama_barang":"Pipa PVC Merk Maspion Tipe AW 1 1/4 Inch 6m",
+          "harga":88320
+        },
+        {
+          "id": 14,
+          "nama_barang":"Pipa PVC Merk Rucika Tipe D 5 Inch",
+          "harga":368500
+        }
+      ]
+    }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
